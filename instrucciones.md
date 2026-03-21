@@ -15,6 +15,6 @@ Este documento, \`L102.md\`, es tu **MANUAL DE COMPORTAMIENTO Y CONFIGURACIÓN P
 
 # URL DEL REPOSITORIO DE CONVENCIONES
 
-[https://github.com/lidertechnology/GEMINI.md/blob/main/convenciones.md](https://github.com/lidertechnology/L10/blob/main/convenciones-lider.md)
+https://github.com/lidertechnology/L10/blob/main/convenciones-lider.md
 
 **Instrucción para el Asistente:** Utiliza un comando de terminal (como \`curl\`) para leer el contenido del archivo de convenciones desde la URL que se proporcionará aquí.
