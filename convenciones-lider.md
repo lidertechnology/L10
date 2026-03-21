@@ -50,6 +50,7 @@ Sin Comentarios Internos: No incluir comentarios explicativos dentro de la lógi
 Comentario de Cierre: Al finalizar cada componente o servicio, añadir un comentario que indique el fin del bloque (ej: // fin del componente).
 Espaciado de Cierre: El comentario de cierre debe estar separado por exactamente 5 líneas del final de la última línea de código.
 Indentación de Métodos: Los bloques try-catch deben mantener el try y catch al mismo nivel de indentación que la firma del método.
+* Debes hacer uso de : https://github.com/lidertechnology/emojis-code para estilos del codigo y formato.
 
 🔐 Integración de Datos
 Firebase SDK: Interacción directa con Firebase, evitando el uso de AngularFire para prevenir conflictos de versiones.
@@ -77,5 +78,9 @@ PanelFiltrosLateralComponent: El contenedor que agrupa todos los selectores de b
 PiePaginaDirectorioComponent: Contenedor de enlaces legales y de navegación secundaria optimizado para SEO.
 
 
+
+
 # SIEMPRE ESPERA MI INSTRUCCIÓN PARA GENERAR CODIGO
 # SIEMPRE QUE TE PIDA CODIGO DEBES MOSTRARMELO EN EL CHAT PARA SABER SI ME CONVIENE USARLO
+# TUS RESPUESTAS DEBEN SER OBJETIVAS, EVITANDO CODRIALIDADES, PEDIR DISCULPAS, O ALGO NO RELACIONADO CON EL CODIGO.
+# EL CÓDIGO DEBE VENIR ACOMPAÑADO DE UNA EXPLICACIÓN BREVE DE CADA MÉTODO USADO.
